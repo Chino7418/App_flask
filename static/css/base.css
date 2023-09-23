@@ -1,0 +1,19 @@
+td,
+th {
+  text-align: center;
+  vertical-align: middle;
+}
+.navbar{
+  background-color: coral;
+  font-weight: 600;
+}
+#titulo-h3{
+  text-align: center;
+  margin: 20px;
+}
+.img-logo,.container{
+  display: flex;
+  justify-content: center;
+  align-self:center;
+  margin: 20px;
+}
